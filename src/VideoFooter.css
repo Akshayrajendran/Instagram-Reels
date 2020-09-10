@@ -1,0 +1,71 @@
+.videoFooter {
+  position: relative;
+  margin-left: 20px;
+  bottom: 100px;
+}
+
+.videoFooter__text {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.videoFooter__text > h3 {
+  margin-left: 10px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+.videoFooter__text > h3 > button {
+  color: white;
+  text-transform: inherit;
+  font-weight: 900;
+}
+
+.videoFooter__actions {
+  display: flex;
+  position: absolute;
+  width: 95%;
+  justify-content: space-between;
+  color: white;
+}
+
+.videoFooter__actionsLeft > .MuigSvgIcon-root {
+  padding: 0 10px;
+  
+}
+
+.videoFooter__actionsRight {
+  display: flex;
+}
+
+.videoFooter__stat {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.videoFooter__stat > p {
+  margin-left: 3px;
+}
+
+.videoFooter__ticker > .ticker {
+  width: 60%;
+  height: fit-content;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.videoFooter__ticker h1 {
+  font-size: 12px;
+  padding-top: 7px;
+  color: white;
+}
+
+.videoFooter__icon {
+  position: absolute;
+  left: 5px;
+  color: white;
+}
