@@ -1,3 +1,17 @@
+This project was built by watching Clever programmer youtube channel.
+
+Deployment - https://instagram-reels-1c732.web.app/
+
+
+Drop Email to akshayrajendran5595@gmail.com for support.
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
